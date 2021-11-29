@@ -3,7 +3,7 @@
   "slug": "cop26",
   "published_at": "2021-11-12T20:56:49.111Z",
   "created_at": "2021-09-14T15:37:39.587Z",
-  "updated_at": "2021-11-16T17:38:56.377Z",
+  "updated_at": "2021-11-29T04:26:25.945Z",
   "story": null,
   "description": "COP26",
   "author": {
@@ -52,7 +52,7 @@
       "updated_at": "2021-11-12T16:05:11.625Z"
     }
   },
-  "Notes": null,
+  "Notes": "<p>N/A</p>",
   "RTL": null,
   "versioning": true,
   "headline": {
@@ -62,9 +62,83 @@
     "kicker": "",
     "deck": null
   },
-  "situation": [],
-  "comments": [],
-  "lede": null,
+  "lede": {
+    "id": 3,
+    "text": "<p>N/A</p>",
+    "what_happened": null,
+    "slug": null,
+    "user_needs": []
+  },
+  "situation": [
+    {
+      "id": 3,
+      "context": null,
+      "episode": {
+        "id": 8,
+        "main_events": null,
+        "consequences": "<p>N/A</p>",
+        "main_event": "<p>N/A</p>",
+        "user_needs": []
+      },
+      "background": {
+        "id": 7,
+        "history": "<p>N/A</p>",
+        "context": "<p>N/A</p>",
+        "user_needs": []
+      }
+    },
+    {
+      "id": 4,
+      "context": null,
+      "episode": {
+        "id": 9,
+        "main_events": null,
+        "consequences": "<p>N/A</p>",
+        "main_event": "<p>N/A</p>",
+        "user_needs": []
+      },
+      "background": {
+        "id": 8,
+        "history": "<p>N/A</p>",
+        "context": "<p>N/A</p>",
+        "user_needs": []
+      }
+    }
+  ],
+  "comments": [
+    {
+      "id": 3,
+      "quotes": {
+        "id": 5,
+        "text": "<p>N/A</p>",
+        "author": null,
+        "user_needs": []
+      },
+      "conclusions": {
+        "id": 5,
+        "expectations": null,
+        "evaluations": null,
+        "text": "<p>N/A</p>",
+        "user_needs": []
+      }
+    },
+    {
+      "id": 4,
+      "quotes": {
+        "id": 6,
+        "text": "<p>N/A</p>",
+        "author": null,
+        "user_needs": []
+      },
+      "conclusions": {
+        "id": 6,
+        "expectations": null,
+        "evaluations": null,
+        "text": "<p>N/A</p>",
+        "user_needs": []
+      }
+    }
+  ],
   "blocks": [
     {
       "id": 1,
