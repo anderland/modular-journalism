@@ -1,0 +1,319 @@
+{
+  "id": 1,
+  "slug": "cop26",
+  "published_at": "2021-11-12T20:56:49.111Z",
+  "created_at": "2021-09-14T15:37:39.587Z",
+  "updated_at": "2021-11-16T17:38:56.377Z",
+  "story": null,
+  "description": "COP26",
+  "author": {
+    "id": 1,
+    "name": "Shirish Kulkarni",
+    "created_at": "2021-11-11T20:03:31.070Z",
+    "updated_at": "2021-11-12T16:05:16.965Z",
+    "bio": null,
+    "links": [],
+    "affiliation": {
+      "id": 1,
+      "text": "Clwstwr",
+      "url": "https://clwstwr.org.uk/",
+      "class": null,
+      "link_type": "www"
+    },
+    "picture": {
+      "id": 3,
+      "name": "shirish.jpg",
+      "alternativeText": "",
+      "caption": "",
+      "width": 400,
+      "height": 400,
+      "formats": {
+        "thumbnail": {
+          "ext": ".jpg",
+          "url": "https://modularjournalism.s3.amazonaws.com/thumbnail_shirish_deb9ff0a58.jpg",
+          "hash": "thumbnail_shirish_deb9ff0a58",
+          "mime": "image/jpeg",
+          "name": "thumbnail_shirish.jpg",
+          "path": null,
+          "size": 6.32,
+          "width": 156,
+          "height": 156
+        }
+      },
+      "hash": "shirish_deb9ff0a58",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 32.64,
+      "url": "https://modularjournalism.s3.amazonaws.com/shirish_deb9ff0a58.jpg",
+      "previewUrl": null,
+      "provider": "aws-s3",
+      "provider_metadata": null,
+      "created_at": "2021-11-12T16:05:11.500Z",
+      "updated_at": "2021-11-12T16:05:11.625Z"
+    }
+  },
+  "Notes": null,
+  "RTL": null,
+  "versioning": true,
+  "headline": {
+    "id": 2,
+    "heading": "COP26: Minister's wheelchair access issues highlight wider inclusion failures",
+    "subheading": "",
+    "kicker": "",
+    "deck": null
+  },
+  "situation": [],
+  "comments": [],
+  "lede": null,
+  "blocks": [
+    {
+      "id": 1,
+      "text": "<p>An Israeli minister, Karine Elharrar, was unable to access the COP26 conference in her wheelchair. Her experience highlighted how -&nbsp; even at high-profile, global events - accessibility failures make life difficult for people with disabilities.</p>",
+      "module": null,
+      "user_need": {
+        "id": 1,
+        "label": "What happened?",
+        "slug": "what-happened",
+        "created_at": "2021-08-27T23:19:12.711Z",
+        "updated_at": "2021-10-13T21:46:05.868Z",
+        "story": 1,
+        "code": 1,
+        "definition": null,
+        "question": "What happened?",
+        "persona": null
+      },
+      "slug": "What happened?"
+    },
+    {
+      "id": 2,
+      "text": "<ul><li>The Israeli infrastructure minister, Karine Elharrar, has muscular dystrophy and uses a wheelchair</li><li>She couldn’t get into the first day of the COP26 climate summit because the only options were to walk, or take a shuttle that wasn’t suitable for a wheelchair.</li><li>The UK Prime Minister, Boris Johnson, apologised after the Israeli delegation complained.</li><li>Ms Elharrar was able to access the second day of the summit</li></ul>",
+      "module": null,
+      "user_need": {
+        "id": 7,
+        "label": "What are the key facts?",
+        "slug": "what-are-the-key-facts",
+        "created_at": "2021-08-30T14:48:18.805Z",
+        "updated_at": "2021-10-13T20:42:45.599Z",
+        "story": null,
+        "code": 7,
+        "definition": null,
+        "question": "What are the key facts?",
+        "persona": null
+      },
+      "slug": "What are the key facts?"
+    },
+    {
+      "id": 3,
+      "text": "<p>Everyone should have the opportunity to participate in events, regardless of any disability. COP26 is a high-profile conference looking at what’s arguably the defining issue of our time. It’s not just embarrassing that Karine Elharrar couldn’t get into the conference, it highlights that accessibility is still a major problem - even for VIPs at global events. The situation is even worse for many disabled people simply hoping to go about their day to day lives.</p>",
+      "module": null,
+      "user_need": {
+        "id": 6,
+        "label": "Why is this important?",
+        "slug": "why-is-this-important",
+        "created_at": "2021-08-30T14:48:02.151Z",
+        "updated_at": "2021-10-13T20:41:47.133Z",
+        "story": null,
+        "code": 6,
+        "definition": null,
+        "question": "Why is this important?",
+        "persona": null
+      },
+      "slug": "Why is this important?"
+    },
+    {
+      "id": 4,
+      "text": "<p>The UK Government says COP26’s permanent structures are “fully wheelchair accessible” and that the venue has “gold level accessibility status”. It also says an accessibility audit found temporary structures for the conference were “fully compliant”.&nbsp;</p><p>However, there have also been apparent failures to provide British Sign Language interpreters and captions for COP26 broadcasts, and other disabled attendees have also said they couldn’t get into the conference because accessibility entrances were closed.</p>",
+      "module": null,
+      "user_need": {
+        "id": 10,
+        "label": "What has got us here?",
+        "slug": "what-has-got-us-here",
+        "created_at": "2021-08-30T14:51:05.422Z",
+        "updated_at": "2021-10-13T20:44:48.881Z",
+        "story": null,
+        "code": 10,
+        "definition": null,
+        "question": "What has got us here?",
+        "persona": null
+      },
+      "slug": "What has got us here?"
+    },
+    {
+      "id": 5,
+      "text": "<p>One billion people around the world live with some form of disability. That’s around 15% of the world’s population. That number is rising, because populations around the world are getting older on average and because there’s been a global increase in chronic health conditions.&nbsp;</p>",
+      "module": null,
+      "user_need": {
+        "id": 9,
+        "label": "What is the data?",
+        "slug": "what-is-the-data",
+        "created_at": "2021-08-30T14:50:46.837Z",
+        "updated_at": "2021-10-13T20:44:33.803Z",
+        "story": null,
+        "code": 9,
+        "definition": null,
+        "question": "What is the data?",
+        "persona": null
+      },
+      "slug": "What is the data?"
+    },
+    {
+      "id": 6,
+      "text": "<p>Despite being “the world’s biggest minority”, it’s clear that people with disabilities are often discriminated against or excluded from community life. Disabled people are often among the poorest and most vulnerable people in communities, but their needs are often overlooked by policymakers.</p>",
+      "module": null,
+      "user_need": {
+        "id": 11,
+        "label": "Are any people particularly affected?",
+        "slug": "are-any-people-particularly-affected",
+        "created_at": "2021-08-30T14:51:21.208Z",
+        "updated_at": "2021-10-13T20:46:48.466Z",
+        "story": null,
+        "code": 11,
+        "definition": null,
+        "question": "Are any people particularly or disproportionately affected?",
+        "persona": null
+      },
+      "slug": "Are any people particularly affected?"
+    },
+    {
+      "id": 7,
+      "text": "<p>Karine Elharrar said on twitter: “I came to Cop26 to meet with my counterparts around the world and promote a common struggle in the climate crisis. It is sad that the UN, which promotes accessibility for people with disabilities, in 2021, does not provide accessibility to its events.”</p><p>The UK Environment Secretary, George Eustice, said “We deeply regret that incident.” but also said, “I know that at most of the other entrances, wheelchair access is there. It was because she came to an entrance where they didn’t have that provision.”</p><p>Inclusion Scotland said it was “appalled” at what had happened to Karine Elharrar.</p><p>It also said there hadn’t been any evidence of BSL interpretation or captions at the conference.</p><p>It said the venue was a “large, well-used events campus” with buildings that were “generally accessible for wheelchair-users”, and entrances which are wheelchair-accessible, but that the way the event had been set up meant that Elharrar could not access the conference.</p><p>Heather Fisken, from Inclusion Scotland, said “This episode sends out a shocking message which says that disabled people are not expected to be at decision-making tables.”</p>",
+      "module": null,
+      "user_need": {
+        "id": 8,
+        "label": "What do key people say?",
+        "slug": "what-do-key-people-say",
+        "created_at": "2021-08-30T14:48:57.279Z",
+        "updated_at": "2021-10-13T20:43:40.726Z",
+        "story": null,
+        "code": 8,
+        "definition": null,
+        "question": "What do key people say?",
+        "persona": null
+      },
+      "slug": "What do key people say?"
+    },
+    {
+      "id": 8,
+      "text": "<ul><li>We don’t have full details of how Karine Elharrar tried to access the conference and the precise difficulties she faced.</li><li>The UK Government says the COP26 venue has “Gold Accessibility Status” but it’s not clear exactly what that is.</li><li>It’s really difficult to gauge how many accessibility failures there are, not just at COP26, but for disabled people in general, going about their daily lives. These failings are mostly dealt with, or worked around, on an individual basis so it would be useful to collect data more systematically.</li></ul>",
+      "module": null,
+      "user_need": {
+        "id": 14,
+        "label": "What don't we know?",
+        "slug": "what-dont-we-know",
+        "created_at": "2021-08-30T14:52:35.258Z",
+        "updated_at": "2021-10-13T20:49:10.957Z",
+        "story": null,
+        "code": 14,
+        "definition": null,
+        "question": "What don't we know?",
+        "persona": null
+      },
+      "slug": "What don’t we know?"
+    },
+    {
+      "id": 9,
+      "text": "<p>If you’re a disabled person, you know already the impact that day to day accessibility failures have on your life. If you’re not disabled, then your community is probably made less rich, in lots of ways, because not everybody can engage with work, social life or services in the way they’d like to.</p>",
+      "module": null,
+      "user_need": {
+        "id": 13,
+        "label": "What is the impact on my community?",
+        "slug": "what-is-the-impact-on-my-community",
+        "created_at": "2021-08-30T14:52:08.652Z",
+        "updated_at": "2021-10-13T20:48:39.022Z",
+        "story": null,
+        "code": 13,
+        "definition": null,
+        "question": "What is the impact on my community?",
+        "persona": null
+      },
+      "slug": "What is the impact on my community?"
+    },
+    {
+      "id": 10,
+      "text": "<p>There are a number of key issues that lead to disability access failures:</p><ul><li>Regulation is either weak or not policed</li><li>Businesses regard accessibility as a cost rather than a benefit</li><li>There’s not enough data</li></ul><p>Government could solve a lot of these, and could also highlight the successes of policies like the&nbsp;<a href=\"https://www.gov.uk/access-to-work\">Access to Work</a> scheme, which show the benefits of improving access for disabled people.</p>",
+      "module": null,
+      "user_need": {
+        "id": 12,
+        "label": "How can we fix it?",
+        "slug": "how-can-we-fix-it",
+        "created_at": "2021-08-30T14:51:40.173Z",
+        "updated_at": "2021-10-13T20:47:58.532Z",
+        "story": null,
+        "code": 12,
+        "definition": null,
+        "question": "How can we fix it?",
+        "persona": null
+      },
+      "slug": "How can we fix it?"
+    }
+  ],
+  "image": null,
+  "stories": [
+    {
+      "id": 13,
+      "title": null,
+      "subtitle": null,
+      "slug": "update-me",
+      "created_at": "2021-11-07T14:56:20.416Z",
+      "updated_at": "2021-11-24T20:24:00.717Z",
+      "label": "Update Me",
+      "definition": "A story which provides a basic update, including the key facts and why it is important.\n\nA richer version of the traditional breaking news story, which ensures that users have useful information that can be effectively processed.",
+      "code": 1,
+      "questions": [1, 7, 6],
+      "published_at": "2021-11-07T14:56:20.416Z"
+    },
+    {
+      "id": 14,
+      "title": null,
+      "subtitle": null,
+      "slug": "data-and-facts",
+      "created_at": "2021-11-07T14:56:56.326Z",
+      "updated_at": "2021-11-24T20:16:07.727Z",
+      "label": "Data & Facts",
+      "definition": "A story that provides the user with key data, to help them understand the key facts and figures underlying an event or policy.\n\nThis provides a focus on factual, quantitative information, and can open up new angles or understandings of a story.\n\n",
+      "code": 2,
+      "questions": [7, 10, 9, 11, 8, 14],
+      "published_at": "2021-11-07T14:56:56.326Z"
+    },
+    {
+      "id": 15,
+      "title": null,
+      "subtitle": null,
+      "slug": "community-impact",
+      "created_at": "2021-11-07T14:57:18.270Z",
+      "updated_at": "2021-11-24T20:12:37.833Z",
+      "label": "Community Impact",
+      "definition": "A story that helps the user understand what impact a particular event or policy will have on them and their community.\n\nThe aim is to clarify the relevance of the story, but also connect the user more directly to policy or practice which might otherwise feel remote.",
+      "code": 3,
+      "questions": [7, 6, 13],
+      "published_at": "2021-11-07T14:57:18.270Z"
+    },
+    {
+      "id": 16,
+      "title": null,
+      "subtitle": null,
+      "slug": "solutions-approach",
+      "created_at": "2021-11-07T14:57:35.994Z",
+      "updated_at": "2021-11-24T20:21:47.110Z",
+      "label": "Solutions Approach",
+      "definition": "A story which takes a \"solutions\" or \"constructive\" approach, analysing potential solutions to a problem.\n\nEnables users to understand and assess options which might provide resolution to a problem, rather than being left with feelings of hopelessness or a lack of agency.",
+      "code": 4,
+      "questions": [7, 6, 9, 11, 10, 8, 12],
+      "published_at": "2021-11-07T14:57:35.994Z"
+    },
+    {
+      "id": 17,
+      "title": null,
+      "subtitle": null,
+      "slug": "full-context",
+      "created_at": "2021-11-07T14:57:52.293Z",
+      "updated_at": "2021-11-24T20:18:14.703Z",
+      "label": "Full Context",
+      "definition": "A story which explains the full context, rather than simply focusing on the \"breaking\" aspect, or the new \"top line\".\n\nThis gives users an accessible entry point into the story, and enables them to feel informed, even if they don't regularly engage with news.",
+      "code": 5,
+      "questions": [1, 7, 10, 6, 9, 13, 11, 14, 12],
+      "published_at": "2021-11-07T14:57:52.293Z"
+    }
+  ],
+  "personas": []
+}
