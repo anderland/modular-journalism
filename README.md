@@ -1,1 +1,4 @@
-# modular-journalism
+# Modular Journalism
+
+Info @ https://modularjournalism.com/
+
